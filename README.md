@@ -20,7 +20,12 @@ Microsoft offers a tool for building UF2s for flashing.
 - implement saves
 - find a way to get GBC code to work. 
 
-## Update 3-24-2024 
+## Update
+March 9, 2025
+
+Sorry for the long delay, I need to update the gerbers and have been working on a STL for a 3d printed shell, which I finally took the time to get printed. Hopefully in the next few month I publish some updates to this project.
+
+March 3rd, 2024
 There has been significant progress with this project in the last month. I've been operating under the assumption the picos GPIOs near 5V tolerant, with the exception of the ADC gpio pins, as per these articles
 https://hackaday.com/2023/04/05/rp2040-and-5v-logic-best-friends-this-fx9000p-confirms/
 https://forums.raspberrypi.com/viewtopic.php?p=2092122#p2091977
